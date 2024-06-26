@@ -1,13 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m 睿智
 
-<!--
-**ChickenAreYouSoBeautiful/ChickenAreYouSoBeautiful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏡 作品：聚交园 | Qi-API 接口开放平台
+- 💬 微信：m3372563469（请备注事由）
+- 📩 邮箱：3372563469@qq.com
 
-Here are some ideas to get you started:
-
-- 🔭 我从事java开发一年半，目前正在持续学习中，如果你有什么好的想法欢迎联系我。
-- 🌱 目前正在尝试手写RPC框架
-- 📫 3372563469@qq,com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+今年汇总 ✨
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ChickenAreYouSoBeautiful
+&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn&range=all_time" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenAreYouSoBeautiful&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&range=all_time" />
